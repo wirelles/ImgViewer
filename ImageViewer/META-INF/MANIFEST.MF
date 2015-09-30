@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ImageViewer
+Bundle-SymbolicName: ImageViewer;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: imageviewer.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Import-Package: javafx.application,
+ javafx.event
