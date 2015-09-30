@@ -28,7 +28,7 @@ import org.eclipse.swt.widgets.ScrollBar;
  * create multiple hierarchies.
  * 
  * @author Chengdong Li: cli4@uky.edu
- */
+ */ this is a test
 public class AppTest extends Canvas 
 {
         /* zooming rates in x and y direction are equal. */
